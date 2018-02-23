@@ -4,8 +4,8 @@ This example show the bare integration of our SDK in a Swift project.
 It show the map on the default floor and let the user Highlight a location by touching it.
 
 ## Adsum SDK
-Uses Adsum SDK v3.32.2
-Swift 3
+* Uses Current Adsum SDK v3.32.2
+* Swift 3
 
 
 ## Documentation
