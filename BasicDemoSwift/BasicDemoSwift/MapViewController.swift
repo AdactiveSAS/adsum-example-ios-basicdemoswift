@@ -37,7 +37,7 @@ class MapViewController: UIViewController, ADSumMapViewControllerDelegate {
     }
     
     override func viewWillAppear(_ animated: Bool) {
-        //demonstrates lifecycle management 
+        //demonstrates lifecycle management
         //resumeRenderer will skip if the map has not been initialised.
         self.adSumMapViewController.resumeRenderer();
     }
